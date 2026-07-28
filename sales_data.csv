@@ -1,0 +1,16 @@
+Order_ID,Product,Category,Region,Quantity,Sales
+1001,Laptop,Electronics,North,2,1200
+1002,Mouse,Electronics,West,5,150
+1003,Keyboard,Electronics,East,3,240
+1004,Chair,Furniture,South,4,800
+1005,Table,Furniture,North,2,900
+1006,Monitor,Electronics,West,3,750
+1007,Phone,Electronics,East,6,3600
+1008,Printer,Electronics,South,1,450
+1009,Desk,Furniture,North,2,1000
+1010,Laptop,Electronics,West,1,600
+1011,Chair,Furniture,East,2,400
+1012,Phone,Electronics,South,3,1800
+1013,Monitor,Electronics,North,2,500
+1014,Table,Furniture,West,1,450
+1015,Keyboard,Electronics,East,4,320
